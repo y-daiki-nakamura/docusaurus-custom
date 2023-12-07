@@ -6,7 +6,6 @@
 
 # Generated files
 .docusaurus
-.github
 .cache-loader
 
 # Misc
